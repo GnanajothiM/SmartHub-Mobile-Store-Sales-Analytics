@@ -96,7 +96,7 @@ The dashboard transforms raw sales data into meaningful business insights using 
 # 💼 Business Insights
 
 <p align="center">
-  <img src="Screenshots/Business insights.png" width="100%">
+  <img src="Screenshots/business_insights.png" width="100%">
 </p>
 
 ### Key Takeaways
