@@ -1,10 +1,12 @@
-# 📱 SmartHub Mobile Store Sales Analytics Dashboard (Excel)
+#  SmartHub Mobile Store Sales Analytics Dashboard (Excel)
 
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white)
-![Dashboard](https://img.shields.io/badge/Project-Sales%20Analytics-success)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+**Tool:** Microsoft Excel
 
-## 📌 Project Overview
+**Project:** Sales Analytics Dashboard
+
+**Status:** Completed
+
+##  Project Overview
 
 The **SmartHub Mobile Store Sales Analytics Dashboard** is an interactive Microsoft Excel dashboard developed to analyze mobile store sales performance across multiple branches.
 
@@ -12,7 +14,7 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 ---
 
-# 📊 Dashboard Preview
+#  Dashboard Preview
 
 <p align="center">
   <img src="screenshots/dashboard.png" width="100%">
@@ -20,7 +22,7 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 ---
 
-# 🎯 Business Objectives
+#  Business Objectives
 
 - Analyze overall sales performance
 - Monitor revenue and profit by brand
@@ -32,7 +34,7 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 ---
 
-# 🛠 Tools & Skills Used
+#  Tools & Skills Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -46,7 +48,7 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 ---
 
-# 📁 Dataset Information
+#  Dataset Information
 
 | Item | Details |
 |-------|----------|
@@ -58,7 +60,7 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 ---
 
-# 📈 KPI Metrics
+#  KPI Metrics
 
 - 💰 Total Revenue
 - 📈 Total Profit
@@ -68,7 +70,7 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 ### Revenue Analysis
 - Brand-wise Revenue & Profit
@@ -93,7 +95,7 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 ---
 
-# 💼 Business Insights
+#  Business Insights
 
 <p align="center">
   <img src="screenshots/business_insights.png" width="100%">
@@ -117,7 +119,7 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 ---
 
-# 📊 Dashboard Highlights
+#  Dashboard Highlights
 
 ✔ Interactive Slicers
 
@@ -133,7 +135,7 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 SmartHub-Mobile-Store-Sales-Analytics
@@ -153,7 +155,7 @@ SmartHub-Mobile-Store-Sales-Analytics
 
 ---
 
-# 🚀 Business Value
+#  Business Value
 
 This dashboard helps management to:
 
@@ -166,7 +168,7 @@ This dashboard helps management to:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Gnana Jothi**
 
